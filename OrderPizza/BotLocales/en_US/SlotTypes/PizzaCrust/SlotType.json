@@ -1,0 +1,1 @@
+{"name":"PizzaCrust","identifier":"WYVEJ2KQLX","description":null,"slotTypeValues":[{"synonyms":[{"value":"thin"}],"sampleValue":{"value":"Thin"}},{"synonyms":[{"value":"thick"},{"value":"thick crust"}],"sampleValue":{"value":"Thick"}}],"parentSlotTypeSignature":null,"valueSelectionSetting":{"resolutionStrategy":"TOP_RESOLUTION","regexFilter":null}}
